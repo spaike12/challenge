@@ -1,0 +1,32 @@
+h1 {
+  font-size: 50px;
+  font-family: arial, sans-serif;
+  padding-top: 15px;
+}
+.app {
+  padding: 10px 5px;
+  margin: 20px;
+  max-width: 700px auto;
+}
+.city {
+  font-size: 25px;
+  font-family: arial, sans-serif;
+}
+.information {
+  font-size: 20px;
+  font-family: arial, sans-serif;
+}
+.row-cols {
+  background-color: transparent;
+  font-size: 20px;
+}
+
+.col1,
+.col2,
+.col3,
+.col4,
+.col5,
+.col6 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
